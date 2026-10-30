@@ -1,0 +1,243 @@
+[
+ {
+  "id": "01",
+  "tpl": "lista",
+  "url": "verduras-bajas-en-fodmap-lista-gramos",
+  "board": "Dieta baja en FODMAP: qué comer",
+  "kicker": "Lista para la compra",
+  "title": "Verduras bajas en FODMAP y cuánto puedes comer",
+  "rows": [
+   [
+    "Zanahoria, patata, chirivía",
+    "sin límite práctico"
+   ],
+   [
+    "Calabacín",
+    "65 g"
+   ],
+   [
+    "Berenjena",
+    "75 g"
+   ],
+   [
+    "Judías verdes",
+    "75 g"
+   ],
+   [
+    "Pimiento verde",
+    "75 g"
+   ],
+   [
+    "Espinacas",
+    "75 g"
+   ],
+   [
+    "Pepino",
+    "75 g"
+   ]
+  ],
+  "unit": "Gramos por comida",
+  "source": "Raciones: Universidad de Monash",
+  "pin_title": "Verduras bajas en FODMAP: lista con gramos por comida",
+  "desc": "Qué verduras puedes comer en la dieta baja en FODMAP y en qué cantidad. Zanahoria, patata y chirivía casi sin límite; calabacín, berenjena, judías verdes y espinacas en raciones medidas según la Universidad de Monash. Guía completa con sustituciones para SIBO y colon irritable.",
+  "alt": "Tabla con verduras bajas en FODMAP y sus gramos por comida: zanahoria, patata, calabacín, berenjena, judías verdes, pimiento verde, espinacas y pepino."
+ },
+ {
+  "id": "02",
+  "tpl": "lista",
+  "url": "frutas-bajas-en-fodmap-permitidas-guia",
+  "board": "Dieta baja en FODMAP: qué comer",
+  "kicker": "Cambia esto por esto",
+  "title": "Frutas que hinchan y qué tomar en su lugar",
+  "rows": [
+   [
+    "Manzana",
+    "kiwi verde o naranja"
+   ],
+   [
+    "Pera",
+    "papaya o fresas"
+   ],
+   [
+    "Cerezas",
+    "fresas o kiwi verde"
+   ],
+   [
+    "Mango",
+    "frambuesas o plátano firme"
+   ],
+   [
+    "Sandía",
+    "melón cantaloup, ración moderada"
+   ]
+  ],
+  "unit": "En la fase de eliminación",
+  "source": "Basado en los datos de la Universidad de Monash",
+  "pin_title": "Frutas bajas en FODMAP: qué tomar en lugar de manzana, pera o mango",
+  "desc": "La manzana, la pera, el mango o la sandía son altos en FODMAP y pueden dar hinchazón. Te contamos qué frutas tomar en su lugar durante la fase de eliminación y cuántos gramos por ración, según la Universidad de Monash. Ideal si sigues la dieta baja en FODMAP por SIBO o colon irritable.",
+  "alt": "Tabla de sustituciones de fruta: manzana por kiwi o naranja, pera por papaya o fresas, cerezas por fresas, mango por frambuesas, sandía por melón cantaloup."
+ },
+ {
+  "id": "03",
+  "tpl": "versus",
+  "url": "frutas-bajas-en-fodmap-permitidas-guia",
+  "board": "Dieta baja en FODMAP: qué comer",
+  "kicker": "¿Sabías que…?",
+  "title": "El mismo plátano, dos raciones muy distintas",
+  "a": [
+   "Plátano firme",
+   "amarillo, sin motas",
+   "hasta 100 g",
+   "un plátano mediano"
+  ],
+  "b": [
+   "Plátano maduro",
+   "con motas marrones",
+   "unos 35 g",
+   "un tercio de plátano"
+  ],
+  "note": "Al madurar acumula más fructanos.",
+  "source": "Raciones: Universidad de Monash",
+  "pin_title": "¿Plátano con SIBO o dieta FODMAP? Firme sí, maduro con medida",
+  "desc": "El plátano firme es bajo en FODMAP hasta unos 100 g, pero el maduro con motas marrones acumula fructanos y la ración baja a unos 35 g, según la Universidad de Monash. Aprende a elegir la fruta en la dieta baja en FODMAP con nuestra guía de frutas con gramos.",
+  "alt": "Comparativa entre plátano firme, bajo en FODMAP hasta 100 g, y plátano maduro, hasta unos 35 g."
+ },
+ {
+  "id": "04",
+  "tpl": "pregunta",
+  "url": "que-pan-comer-con-sibo",
+  "board": "SIBO: guías y dudas",
+  "kicker": "Pregunta frecuente",
+  "title": "¿Qué pan puedo comer con SIBO?",
+  "answer": [
+   "Masa madre tradicional: hasta 2 rebanadas por comida",
+   "Pan sin gluten sin inulina, legumbres ni miel",
+   "Tortitas de arroz o de maíz"
+  ],
+  "source": "Raciones: Universidad de Monash",
+  "pin_title": "¿Qué pan comer con SIBO o colon irritable? Guía con raciones",
+  "desc": "Con SIBO o colon irritable puedes comer pan de masa madre tradicional (hasta 2 rebanadas por comida según Monash), pan sin gluten sin inulina ni harina de legumbres, y tortitas de arroz o maíz. Guía con tabla de panes, cómo reconocer una masa madre de verdad y cómo leer etiquetas.",
+  "alt": "Pin con la pregunta ¿Qué pan puedo comer con SIBO? y tres respuestas: masa madre tradicional, pan sin gluten sin inulina y tortitas de arroz o maíz."
+ },
+ {
+  "id": "05",
+  "tpl": "curiosidad",
+  "url": "pan-sin-gluten-bajo-en-fodmap-casero",
+  "board": "Dieta baja en FODMAP: qué comer",
+  "kicker": "Error común",
+  "title": "«Sin gluten» no siempre es bajo en FODMAP",
+  "body": "Revisa la etiqueta y evita estos ingredientes:",
+  "list": [
+   "Inulina o fibra de achicoria",
+   "Harinas de garbanzo, lenteja o soja",
+   "Miel, agave o concentrado de manzana",
+   "Pasas, dátiles o higos"
+  ],
+  "source": "",
+  "pin_title": "Pan sin gluten y FODMAP: los 4 ingredientes que debes evitar",
+  "desc": "Muchas personas empiezan la dieta baja en FODMAP comprando todo sin gluten, pero el problema del trigo son los fructanos, no el gluten. Revisa la etiqueta: inulina, harinas de legumbres, miel o fruta seca pueden dar hinchazón. Incluye receta de pan casero sin gluten y bajo en FODMAP.",
+  "alt": "Pin que explica que sin gluten no siempre es bajo en FODMAP y lista cuatro ingredientes a evitar: inulina, harinas de legumbres, miel o agave y fruta deshidratada."
+ },
+ {
+  "id": "06",
+  "tpl": "receta",
+  "url": "pan-sin-gluten-bajo-en-fodmap-casero",
+  "board": "Recetas bajas en FODMAP",
+  "kicker": "Receta sin amasar",
+  "title": "Pan casero sin gluten y bajo en FODMAP",
+  "chips": [
+   "Sin amasar",
+   "14 rebanadas",
+   "Sin legumbres ni inulina"
+  ],
+  "ing": [
+   "Harina de arroz",
+   "Harina de trigo sarraceno",
+   "Almidón de tapioca",
+   "Cáscara de psyllium"
+  ],
+  "pin_title": "Pan sin gluten casero y bajo en FODMAP (sin amasar)",
+  "desc": "Receta de pan casero sin gluten y bajo en FODMAP que se hace sin amasar: harina de arroz, trigo sarraceno, tapioca y psyllium. Miga tierna que no se desmorona, apto para SIBO y colon irritable. Con gramos, paso a paso y cómo conservarlo toda la semana.",
+  "alt": "Tarjeta de receta de pan casero sin gluten y bajo en FODMAP con sus ingredientes: harina de arroz, trigo sarraceno, tapioca y psyllium."
+ },
+ {
+  "id": "07",
+  "tpl": "receta",
+  "url": "tortilla-de-patatas-sin-cebolla-fodmap",
+  "board": "Recetas bajas en FODMAP",
+  "kicker": "Clásico adaptado",
+  "title": "Tortilla de patatas sin cebolla, igual de jugosa",
+  "chips": [
+   "Baja en FODMAP",
+   "Apta para tuppers"
+  ],
+  "ing": [
+   "Patatas pochadas lentamente",
+   "Huevos",
+   "Aceite de oliva",
+   "Parte verde de la cebolleta"
+  ],
+  "tip": "El truco: la parte verde de la cebolleta da el aroma sin los fructanos de la cebolla.",
+  "pin_title": "Tortilla de patatas sin cebolla, jugosa y baja en FODMAP",
+  "desc": "Cómo hacer una tortilla de patatas sin cebolla que quede jugosa: patatas pochadas despacio y la parte verde de la cebolleta para el aroma. Receta baja en FODMAP para SIBO y colon irritable, con gramos, trucos para darle la vuelta y cinco variantes.",
+  "alt": "Tarjeta de receta de tortilla de patatas sin cebolla con ingredientes: patatas, huevos, aceite de oliva y parte verde de la cebolleta."
+ },
+ {
+  "id": "08",
+  "tpl": "pregunta",
+  "url": "sopa-calabaza-zanahoria-baja-fodmap-sibo",
+  "board": "SIBO: guías y dudas",
+  "kicker": "Pregunta frecuente",
+  "title": "¿Puedo comer calabaza con SIBO?",
+  "answer": [
+   "Sí, pero la cantidad importa",
+   "Calabaza cacahuete: hasta 63 g por ración",
+   "Calabaza japonesa: hasta 75 g por ración"
+  ],
+  "source": "Raciones: Universidad de Monash",
+  "pin_title": "¿Calabaza con SIBO? Sí, con estas raciones (y una sopa fácil)",
+  "desc": "Puedes comer calabaza con SIBO o dieta baja en FODMAP si cuidas la ración: la calabaza cacahuete es baja hasta unos 63 g y la japonesa hasta unos 75 g, según Monash. Te dejamos una sopa de calabaza y zanahoria que completa el volumen con patata.",
+  "alt": "Pin con la pregunta ¿Puedo comer calabaza con SIBO? y las raciones: calabaza cacahuete hasta 63 g, calabaza japonesa hasta 75 g."
+ },
+ {
+  "id": "09",
+  "tpl": "receta",
+  "url": "mousse-chocolate-baja-fodmap-sibo",
+  "board": "Postres bajos en FODMAP",
+  "kicker": "Postre en 10 minutos",
+  "title": "Mousse de chocolate sin nata ni lactosa",
+  "chips": [
+   "10 min + nevera",
+   "2 raciones",
+   "Sin lactosa"
+  ],
+  "ing": [
+   "Plátano firme (≈100 g)",
+   "Cacao puro sin azúcar",
+   "Mantequilla de cacahuete natural",
+   "Bebida vegetal"
+  ],
+  "tip": "Usa plátano firme, sin motas: el maduro tiene más fructanos.",
+  "pin_title": "Mousse de chocolate baja en FODMAP, sin nata ni lactosa",
+  "desc": "Mousse de chocolate cremosa con plátano firme, cacao puro y aguacate, sin nata ni lactosa. Lista en 10 minutos más un rato de nevera. Un postre bajo en FODMAP pensado para quien sigue la dieta por SIBO o colon irritable.",
+  "alt": "Tarjeta de receta de mousse de chocolate baja en FODMAP con plátano firme, cacao puro, aguacate y bebida vegetal."
+ },
+ {
+  "id": "10",
+  "tpl": "curiosidad",
+  "url": "desayunos-bajos-en-fodmap",
+  "board": "Desayunos bajos en FODMAP",
+  "kicker": "Desayuno y SIBO",
+  "title": "3 cosas del desayuno de siempre que pueden darte hinchazón",
+  "body": "",
+  "list": [
+   "Lactosa: leche de vaca y yogures",
+   "Fructanos: pan de trigo, centeno y bollería",
+   "Fructosa libre: zumos, miel y mermeladas"
+  ],
+  "source": "",
+  "pin_title": "Desayunos bajos en FODMAP: 3 fallos del desayuno de siempre",
+  "desc": "La tostada de pan blanco, el café con leche y el zumo de naranja concentran FODMAP que pueden dar hinchazón con SIBO o colon irritable. Descubre qué cambiar y cinco desayunos bajos en FODMAP con raciones medidas según la Universidad de Monash.",
+  "alt": "Pin que lista tres fuentes de FODMAP en el desayuno habitual: lactosa, fructanos del pan y bollería, y fructosa libre de zumos, miel y mermeladas."
+ }
+]
