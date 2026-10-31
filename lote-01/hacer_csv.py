@@ -16,11 +16,8 @@ KW = {'01':'verduras bajas en fodmap, dieta fodmap, lista fodmap, sibo, colon ir
       '08':'calabaza sibo, sopa de calabaza, receta baja en fodmap, dieta fodmap',
       '09':'mousse de chocolate, postre bajo en fodmap, postre sin lactosa, sibo',
       '10':'desayuno bajo en fodmap, desayuno sibo, dieta fodmap, colon irritable'}
-# (id, fecha y hora UTC). 3 pines al día a 08:30, 13:30 y 20:30 hora de España.
-PLAN = [('01','2026-11-02T07:30:00'),('04','2026-11-02T12:30:00'),('07','2026-11-02T19:30:00'),
-        ('02','2026-11-03T07:30:00'),('08','2026-11-03T12:30:00'),('09','2026-11-03T19:30:00'),
-        ('05','2026-11-04T07:30:00'),('10','2026-11-04T12:30:00'),('03','2026-11-04T19:30:00'),
-        ('06','2026-11-05T12:30:00')]
+# (id, fecha y hora UTC). Movido al 1 y 2 de diciembre, después del lote 2 (5 al día).
+PLAN = [('01', '2026-12-01T07:00:00'), ('04', '2026-12-01T10:30:00'), ('07', '2026-12-01T13:30:00'), ('02', '2026-12-01T17:00:00'), ('08', '2026-12-01T20:00:00'), ('09', '2026-12-02T07:00:00'), ('05', '2026-12-02T10:30:00'), ('10', '2026-12-02T13:30:00'), ('03', '2026-12-02T17:00:00'), ('06', '2026-12-02T20:00:00')]
 out = os.path.join(here, 'pinterest-subida-lote-01.csv')
 with open(out, 'w', newline='', encoding='utf-8') as f:
     w = csv.writer(f)

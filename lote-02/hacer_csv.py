@@ -1,4 +1,4 @@
-"""Lote 2: reparte los 150 pines en 30 días (5 al día, del 6-11 al 5-12-2026) y crea los CSV de Pinterest.
+"""Lote 2: reparte los 150 pines en 30 días (5 al día, del 1-11 al 30-11-2026) y crea los CSV de Pinterest.
 Uso: python3 hacer_csv.py <url_base_imagenes>
 Horas en UTC. España en invierno es UTC+1: 08:00, 11:30, 14:30, 18:00 y 21:00."""
 import json, csv, sys, os, datetime as dt
@@ -7,7 +7,7 @@ here = os.path.dirname(os.path.abspath(__file__))
 pins = json.load(open(os.path.join(here, 'pins.json'), encoding='utf-8'))
 
 HORAS = ['07:00', '10:30', '13:30', '17:00', '20:00']
-DIA0 = dt.date(2026, 11, 6)
+DIA0 = dt.date(2026, 11, 1)
 NAVIDAD_DESDE = dt.date(2026, 11, 15)
 
 KW_TABLERO = {
